@@ -2,16 +2,9 @@
 👨‍⚖️BEEWARE É UM CONJUNTO DE FERRAMENTAS E BIBLIOTECAS EM PYTHON QUE PERMITE DESENVOLVER APLICATIVOS NATIVOS PARA VÁRIAS PLATAFORMAS, COMO IOS, ANDROID, WINDOWS, MACOS E LINUX.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=BEEWARE)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.beeware.org/en/latest/) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLeOtHc_su2eXrh3IHTt2zrjeX0XdKrvOH&si=G8-a6tDM0KvK02g0)
-
-<img src="https://beeware.org/contact/media//beeware-519.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 BeeWare é um projeto open source que visa facilitar o desenvolvimento de aplicativos nativos para várias plataformas usando a linguagem de programação Python. A ideia principal é permitir que os desenvolvedores criem aplicativos que tenham a aparência e o desempenho de aplicativos nativos, independentemente da plataforma de destino.
