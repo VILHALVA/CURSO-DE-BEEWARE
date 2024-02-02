@@ -1,12 +1,9 @@
 # CURSO DE BEEWARE
 👨‍⚖️BEEWARE É UM CONJUNTO DE FERRAMENTAS E BIBLIOTECAS EM PYTHON QUE PERMITE DESENVOLVER APLICATIVOS NATIVOS PARA VÁRIAS PLATAFORMAS, COMO IOS, ANDROID, WINDOWS, MACOS E LINUX.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.beeware.org/en/latest/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLeOtHc_su2eXrh3IHTt2zrjeX0XdKrvOH&si=G8-a6tDM0KvK02g0)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 BeeWare é um projeto open source que visa facilitar o desenvolvimento de aplicativos nativos para várias plataformas usando a linguagem de programação Python. A ideia principal é permitir que os desenvolvedores criem aplicativos que tenham a aparência e o desempenho de aplicativos nativos, independentemente da plataforma de destino.
 
 O projeto BeeWare fornece várias ferramentas e bibliotecas que permitem o desenvolvimento de aplicativos para desktop, mobile e web. Algumas das ferramentas mais notáveis no ecossistema BeeWare incluem:
@@ -21,8 +18,8 @@ O projeto BeeWare fornece várias ferramentas e bibliotecas que permitem o desen
 
 Ao usar o BeeWare, os desenvolvedores podem escrever código em Python e criar aplicativos que podem ser executados em várias plataformas sem a necessidade de reescrever o código para cada sistema operacional. Isso simplifica o desenvolvimento multiplataforma e permite que os desenvolvedores aproveitem a familiaridade e a produtividade da linguagem Python em diferentes contextos de desenvolvimento de aplicativos.
 
-# CARACTERISTICAS:
-## POSITIVAS:
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Desenvolvimento Multiplataforma:**
    - O BeeWare permite criar aplicativos que podem ser executados em várias plataformas, como Windows, macOS, Linux, Android e iOS, usando uma única base de código em Python.
 
@@ -38,7 +35,7 @@ Ao usar o BeeWare, os desenvolvedores podem escrever código em Python e criar a
 5. **Ecossistema em Expansão:**
    - O BeeWare é um projeto em crescimento, com uma comunidade ativa que contribui para o desenvolvimento de novas ferramentas e bibliotecas, ampliando as capacidades e suporte do ecossistema.
 
-## NEGATIVAS:
+### NEGATIVAS:
 1. **Limitações de Desempenho:**
    - O desempenho de aplicativos desenvolvidos com o BeeWare pode não ser tão otimizado quanto o de aplicativos desenvolvidos em linguagens nativas para cada plataforma.
 
@@ -50,3 +47,9 @@ Ao usar o BeeWare, os desenvolvedores podem escrever código em Python e criar a
 
 4. **Documentação e Recursos:**
    - A documentação e os recursos disponíveis podem não ser tão extensos quanto os de algumas outras tecnologias, o que pode exigir mais esforço na pesquisa e aprendizado por parte dos desenvolvedores.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "PROGRAMMINGFEVER"](https://youtube.com/playlist?list=PLeOtHc_su2eXrh3IHTt2zrjeX0XdKrvOH&si=G8-a6tDM0KvK02g0)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://docs.beeware.org/en/latest/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
