@@ -18,6 +18,21 @@ O projeto BeeWare fornece várias ferramentas e bibliotecas que permitem o desen
 
 Ao usar o BeeWare, os desenvolvedores podem escrever código em Python e criar aplicativos que podem ser executados em várias plataformas sem a necessidade de reescrever o código para cada sistema operacional. Isso simplifica o desenvolvimento multiplataforma e permite que os desenvolvedores aproveitem a familiaridade e a produtividade da linguagem Python em diferentes contextos de desenvolvimento de aplicativos.
 
+## SUA HISTÓRIA:
+1. **Origens**: A BeeWare foi iniciada por Russell Keith-Magee, um desenvolvedor de software australiano, em 2012. A motivação inicial por trás do projeto era explorar maneiras de criar aplicativos para dispositivos móveis e desktop usando Python, uma linguagem conhecida por sua simplicidade e produtividade.
+
+2. **Projetos Iniciais**: O projeto BeeWare começou com o desenvolvimento de algumas ferramentas e bibliotecas iniciais, incluindo o Toga, uma estrutura de interface de usuário multiplataforma inspirada no UIKit do iOS, e o Batavia, um interpretador de bytecode Python escrito em JavaScript para executar código Python em um navegador da web.
+
+3. **Crescimento e Expansão**: Com o tempo, a BeeWare cresceu para incluir uma variedade de ferramentas e bibliotecas, como o Briefcase, que permite empacotar aplicativos Python como executáveis nativos para várias plataformas, e o Rubicon-ObjC, que permite interagir diretamente com APIs nativas do iOS usando Python.
+
+4. **Suporte a Múltiplas Plataformas**: Uma das metas principais da BeeWare é fornecer suporte para várias plataformas, incluindo iOS, Android, Windows, macOS e Linux. Isso permite que os desenvolvedores escrevam código Python uma vez e o executem em diferentes dispositivos e sistemas operacionais.
+
+5. **Comunidade Ativa**: A BeeWare tem uma comunidade ativa de desenvolvedores e contribuidores que ajudam a manter e expandir o ecossistema de ferramentas e bibliotecas. A comunidade é aberta e acolhedora, com canais de comunicação, como fóruns, listas de discussão e bate-papos online, disponíveis para os participantes compartilharem ideias, tirarem dúvidas e colaborarem em projetos.
+
+6. **Adoção e Casos de Uso**: A BeeWare foi adotada por empresas e desenvolvedores individuais para uma variedade de casos de uso, incluindo o desenvolvimento de aplicativos móveis, aplicativos de desktop, jogos, ferramentas de automação e muito mais. Seu foco na produtividade e na simplicidade do desenvolvimento em Python atraiu uma ampla gama de usuários.
+
+7. **Evolução Contínua**: A BeeWare continua a evoluir com o tempo, com novas ferramentas, bibliotecas e recursos sendo desenvolvidos e lançados regularmente. A equipe de desenvolvimento está comprometida em melhorar e expandir o conjunto de ferramentas BeeWare para atender às necessidades em constante mudança dos desenvolvedores Python.
+
 ## CARACTERISTICAS:
 ### POSITIVAS:
 1. **Desenvolvimento Multiplataforma:**
@@ -53,3 +68,4 @@ Ao usar o BeeWare, os desenvolvedores podem escrever código em Python e criar a
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.beeware.org/en/latest/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [VEJA A SINTAXE](./SINTAXE.md)
