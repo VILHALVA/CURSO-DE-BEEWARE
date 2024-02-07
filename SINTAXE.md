@@ -1,4 +1,39 @@
 # SINTAXE:
+## CRIANDO PROJETO:
+Para criar um projeto utilizando o BeeWare, você pode seguir estes passos:
+
+### Passo 1: Instalar o BeeWare
+Você pode instalar o BeeWare usando o pip (gerenciador de pacotes Python). Execute o seguinte comando em seu terminal ou prompt de comando:
+
+```bash
+pip install briefcase
+```
+
+### Passo 2: Inicializar um novo projeto BeeWare
+Depois de instalar o BeeWare, você pode inicializar um novo projeto BeeWare usando o Briefcase, que é uma ferramenta para construir, empacotar e distribuir aplicativos Python multiplataforma. No terminal, navegue até o diretório onde deseja criar seu projeto e execute o seguinte comando:
+
+```bash
+briefcase new
+```
+
+Isso iniciará um assistente interativo que o guiará na criação de um novo projeto BeeWare. Você precisará fornecer informações como o nome do projeto, o nome do aplicativo e o tipo de aplicativo (por exemplo, "console" para um aplicativo de console ou "gui" para um aplicativo com interface gráfica).
+
+### Passo 3: Desenvolver seu aplicativo
+Após a criação do projeto, você encontrará uma estrutura de diretórios básica que contém os arquivos necessários para o seu aplicativo. Dependendo do tipo de aplicativo que você escolheu (console ou GUI), você poderá começar a desenvolver seu aplicativo Python dentro desses arquivos.
+
+### Passo 4: Compilar e executar seu aplicativo
+Após desenvolver seu aplicativo, você pode usar o Briefcase para compilar e executar seu aplicativo para diferentes plataformas. Por exemplo, para compilar e executar um aplicativo GUI para Windows, você pode usar o seguinte comando:
+
+```bash
+briefcase dev
+```
+
+Este comando compilará e executará o aplicativo em sua plataforma local. Você também pode usar o Briefcase para empacotar e distribuir seu aplicativo para outras plataformas, como macOS, iOS e Android.
+
+### Passo 5: Distribuir seu aplicativo (opcional)
+Depois de compilar e testar seu aplicativo, você pode distribuí-lo para outros usuários. O Briefcase oferece opções para empacotar e distribuir seu aplicativo para diferentes plataformas, incluindo a criação de instaladores para Windows e pacotes de aplicativos para macOS, iOS e Android.
+
+## EXEMPLOS DE CÓDIGOS:
 Vou criar um exemplo simples de código usando o framework BeeWare. Neste exemplo, criaremos uma aplicação de desktop usando a biblioteca Toga para exibir uma janela com um botão. Quando o botão for clicado, exibiremos uma mensagem de saudação.
 
 ```python
