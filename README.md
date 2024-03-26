@@ -69,3 +69,4 @@ Ao usar o BeeWare, os desenvolvedores podem escrever código em Python e criar a
 - [VEJA A DOCUMENTAÇÃO](https://docs.beeware.org/en/latest/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:BEEWARE)
