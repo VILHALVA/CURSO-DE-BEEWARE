@@ -21,19 +21,7 @@ Isso iniciará um assistente interativo que o guiará na criação de um novo pr
 ### PASSO 3: DESENVOLVER SEU APLICATIVO:
 Após a criação do projeto, você encontrará uma estrutura de diretórios básica que contém os arquivos necessários para o seu aplicativo. Dependendo do tipo de aplicativo que você escolheu (console ou GUI), você poderá começar a desenvolver seu aplicativo Python dentro desses arquivos.
 
-### PASSO 4: COMPILAR E EXECUTAR SEU APLICATIVO:
-Após desenvolver seu aplicativo, você pode usar o Briefcase para compilar e executar seu aplicativo para diferentes plataformas. Por exemplo, para compilar e executar um aplicativo GUI para Windows, você pode usar o seguinte comando:
-
-```bash
-briefcase dev
-```
-
-Este comando compilará e executará o aplicativo em sua plataforma local. Você também pode usar o Briefcase para empacotar e distribuir seu aplicativo para outras plataformas, como macOS, iOS e Android.
-
-### PASSO 5: DISTRIBUIR SEU APLICATIVO (OPCIONAL):
-Depois de compilar e testar seu aplicativo, você pode distribuí-lo para outros usuários. O Briefcase oferece opções para empacotar e distribuir seu aplicativo para diferentes plataformas, incluindo a criação de instaladores para Windows e pacotes de aplicativos para macOS, iOS e Android.
-
-## EXEMPLOS DE CÓDIGOS:
+### EXEMPLO DE CÓDIGO:
 Vou criar um exemplo simples de código usando o framework BeeWare. Neste exemplo, criaremos uma aplicação de desktop usando a biblioteca Toga para exibir uma janela com um botão. Quando o botão for clicado, exibiremos uma mensagem de saudação.
 
 ```python
@@ -79,3 +67,40 @@ Agora, vamos explicar o que cada parte deste código faz:
 4. No bloco `if __name__ == '__main__':`, verificamos se o script está sendo executado como o programa principal. Se sim, criamos uma instância da aplicação chamando a função `build_app()` e iniciamos o loop principal da aplicação com o método `main_loop()`.
 
 Ao executar este código, uma janela de aplicativo será exibida com um botão. Quando o botão for clicado, a mensagem "Olá, Mundo!" será exibida no console. Este é um exemplo simples de como criar uma aplicação de desktop usando o framework BeeWare.
+
+### PASSO 4: COMPILAR E EXECUTAR SEU APLICATIVO:
+Após desenvolver seu aplicativo, você pode usar o Briefcase para compilar e executar seu aplicativo para diferentes plataformas. Por exemplo, para compilar e executar um aplicativo GUI para Windows, você pode usar o seguinte comando:
+
+```bash
+briefcase dev
+```
+
+Este comando compilará e executará o aplicativo em sua plataforma local. 
+
+### PASSO 5: EMPACOTAR E DISTRIBUIR PARA OUTRAS PLATAFORMAS:
+Para distribuir o aplicativo para outras plataformas, como Windows, macOS, iOS ou Android, o Briefcase oferece suporte para criar pacotes e instaladores adequados para cada plataforma. Dependendo da plataforma de destino, você pode usar os comandos apropriados:
+
+- **Para Windows:**
+  ```bash
+  briefcase package
+  ```
+  Este comando cria um instalador executável para Windows que pode ser distribuído e instalado em sistemas Windows.
+
+- **Para macOS:**
+  ```bash
+  briefcase package
+  ```
+  Similar ao Windows, este comando cria um pacote de aplicativo `.app` que pode ser distribuído para usuários macOS.
+
+- **Para iOS:**
+  ```bash
+  briefcase package --ios
+  ```
+  Este comando cria um pacote Xcode que pode ser compilado e instalado em dispositivos iOS.
+
+- **Para Android:**
+  ```bash
+  briefcase package --android
+  ```
+  Este comando cria um pacote Android que pode ser instalado em dispositivos Android ou distribuído via Google Play Store.
+
